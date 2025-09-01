@@ -16,9 +16,10 @@
   <a href="https://www.linkedin.com/in/kusuma-h-613560222/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:kusumarathna666@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+ <a href="https://kusuma-portfolio-beta.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-green?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+</a>
+
 </p>
 
 ---
@@ -31,7 +32,7 @@
 - 💡 Experienced in **UI/UX Design Development Intern, and TRAINEE**   
 - 📊 Skilled in **ReactJs, Javascript, TailwindCSS, HTML, React Native,**  
 - ☁️ Hands-on with **Visual Studio Code, OpenGL, Figma, Expo, MySQL**  
-- 🧠 My ability to solve complex problems and deliver effective solutions. Passionate about both front-end development and mobile app development, 
+- 🧠 My ability to solve complex problems and deliver effective solutions. Passionate about both front-end development and mobile app development.
 
 ---
 
