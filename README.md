@@ -65,6 +65,26 @@
  <img src="https://img.shields.io/badge/UI%2FUX%20Design-%23FF6F61?style=for-the-badge&logo=figma&logoColor=white" /> </p>
 
 ---
+## ⭐ Featured Projects  
+
+<p align="center">
+
+  <!-- AI Project -->
+  <a href="https://github.com/kusumarathna666/ai-educator-course-generator-main" target="_blank">
+    <img src="https://img.shields.io/badge/AI--Powered%20Learning%20&%20Interview%20Platform-purple?style=for-the-badge&logo=openai&logoColor=white" alt="AI-Powered Personalized Learning and Interview Platform" />
+  </a> &nbsp;
+
+  <!-- Portfolio Project -->
+  <a href="https://github.com/kusumarathna666/kusuma_portfolio" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Website-black?style=for-the-badge&logo=vercel&logoColor=white" alt="Kusuma Portfolio" />
+  </a> &nbsp;
+
+  <!-- Anime Recommendation Project -->
+  <a href="https://github.com/kusumarathna666/Anime-Recommendation" target="_blank">
+    <img src="https://img.shields.io/badge/Anime-Recommendation-orange?style=for-the-badge&logo=anilist&logoColor=white" alt="Anime Recommendation" />
+  </a> &nbsp;
+
+</p>
 
 
 
